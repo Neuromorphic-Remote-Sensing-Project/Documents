@@ -65,7 +65,5 @@ The `[ASSET root directory]\tools\` folder contains many functions not required 
 
 `yscale` -- toggle between linear and log scale on the y-axis
 
-`run_asset_cmdline.sh` -- shell script to run ASSET from the command line
-
 ## Contact
 Questions or comments should be sent to: ASSET.CTISR@afit.edu
