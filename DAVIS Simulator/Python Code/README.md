@@ -1,5 +1,7 @@
 # DAVIS simulator
 
+Source code copied from https://github.com/uzh-rpg/rpg_davis_simulator to inform development of ASSET based DVS/DAVIS model
+
 ## How does it work?
 
 <img src="pipeline.png" width="850">
