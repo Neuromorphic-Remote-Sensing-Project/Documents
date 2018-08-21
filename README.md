@@ -12,7 +12,7 @@ Source code for DAVIS Simulator in python, also available at https://github.com/
 
 ## ASSET 
 
-ASSET source code is provided here to aid in developing a physics based DVS/DAVIS model on representative ISR scenes
+Preliminary physics based DVS/DAVIS model for processing and converting ASSET imagery to notional DVS/DAVIS output
 
 ## DVS/DAVIS software Modeling
 
